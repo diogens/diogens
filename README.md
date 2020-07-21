@@ -22,7 +22,7 @@ export default () => ({
 ### Contact me:
 
  😎 diogensgreen@gmail.com
- 😅 /github/followers/:diogens?label=Follow
+ 😅 github.com/diogens/github/followers/:diogens?label=Follow
 
 ### My GitHub Stats
 
