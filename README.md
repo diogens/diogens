@@ -1,8 +1,7 @@
 # Diogenes Oliveira 😎
 
 ```js
-export default () => ({  
-  
+export default () => ({    
   askMeAbout: [
     "webdev", "tech", "music", "art", "research"
   ],
