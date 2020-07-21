@@ -3,7 +3,6 @@
 ```js
 export default () => ({  
   
-  blogUrl: "http://blog.ghosh.pro/",
   askMeAbout: [
     "webdev", "tech", "music", "art", "research"
   ],
