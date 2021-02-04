@@ -3,8 +3,6 @@
  
 # Diogenes Oliveira 😎
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diogens&theme=dracula" alt="diogens" /></a> </p>
-
 ```js
 export default () => ({    
   askMeAbout: [
@@ -22,6 +20,9 @@ export default () => ({
   },  
 });
 ```
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diogens&theme=dracula" alt="diogens" /></a> </p>
+
 ### Contact me:
 
 
