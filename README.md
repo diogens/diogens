@@ -1,3 +1,6 @@
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=diogens&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ 
 # Diogenes Oliveira 😎
 
 ```js
@@ -25,4 +28,3 @@ export default () => ({
  [![Gmail Badge](https://img.shields.io/badge/-diogensgreen@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diogensgreen@gmail.com )](mailto:diogensgreen@gmail.com/)
  
  
- [![trophy](https://github-profile-trophy.vercel.app/?username=diogens&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
