@@ -1,5 +1,6 @@
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=diogens&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diogens&theme=dracula" alt="diogens" /></a> </p>
  
 # Diogenes Oliveira 😎
 
