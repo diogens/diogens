@@ -4,7 +4,7 @@
 # Diogenes Oliveira 😎
 
 ```js
-export default () => ({    
+export const About = () => ({    
   askMeAbout: [
     "webdev", "tech", "music", "art", "research"
   ],
@@ -13,6 +13,7 @@ export default () => ({
       js: ["react", "vue"],
       css: ["styled-component", "sass"]
     },
+    mobile: ["react-native", "flutter"],
     backEnd: {      
       js: ["node", "express", "adonis"],
     },    
